@@ -19,6 +19,8 @@ This repository contains the code and analysis for the HealthcareOptimizeAI proj
 1. Clone the repository: `git clone https://github.com/JayKumarPatel05/Advanced-PowerBI-Analytics-for-Health-Service-Delivery.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Follow the instructions in each notebook for execution.
+   ---------------------------OR---------------------------
+   DOWNLOAD THE Report.pbix FILE FROM TASK 2 FOLDER AND LOAD IT IN PowerBI.
 
 ## Dependencies
 - Python 3.x
