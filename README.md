@@ -14,12 +14,7 @@ This repository contains the code and analysis for the HealthcareOptimizeAI proj
   - Predictive Model Development
   - Categorized Predictions
   - Business Problem Solving
-
-### Notebook Structure
-- `Importing clean data from PowerBI.`
-- `Implementation of predictive models.`
-- `Addressing the business problem and deriving insights.`
-
+    
 ## How to Run
 1. Clone the repository: `git clone https://github.com/JayKumarPatel05/Advanced-PowerBI-Analytics-for-Health-Service-Delivery.git`
 2. Install required dependencies: `pip install -r requirements.txt`
