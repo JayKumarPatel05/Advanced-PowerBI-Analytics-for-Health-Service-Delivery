@@ -16,9 +16,9 @@ This repository contains the code and analysis for the HealthcareOptimizeAI proj
   - Business Problem Solving
 
 ### Notebook Structure
-- `01_Data_Preparation.ipynb`: Importing clean data from PowerBI.
-- `02_Predictive_Model_Development.ipynb`: Implementation of predictive models.
-- `03_Business_Problem_Solving.ipynb`: Addressing the business problem and deriving insights.
+- `Importing clean data from PowerBI.`
+- `Implementation of predictive models.`
+- `Addressing the business problem and deriving insights.`
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/JayKumarPatel05/Advanced-PowerBI-Analytics-for-Health-Service-Delivery.git`
